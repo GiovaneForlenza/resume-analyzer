@@ -43,7 +43,7 @@ const auth = () => {
                   </button>
                 ) : (
                   <button className="auth-button" onClick={auth.signIn}>
-                    <p>Sign in</p>
+                    <p>Log in</p>
                   </button>
                 )}
               </>
